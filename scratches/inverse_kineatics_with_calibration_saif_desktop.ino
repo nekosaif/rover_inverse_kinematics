@@ -5,8 +5,7 @@
  * It provides functionality for calibration, movement control, and position memory using EEPROM.
  * 
  * Hardware Configuration:
- * - 2 Linear actuators with potentiometer feedback
- * - 1 Rotating base with potentiometer feedback
+ * - 3 Rotating base with potentiometer feedback
  * - Calibration buttons
  * - LED indicator for status
  * 
